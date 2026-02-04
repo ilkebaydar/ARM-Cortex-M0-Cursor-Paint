@@ -1,2 +1,3 @@
-*.s linguist-language=armasm
+*.s linguist-language=Assembly
 *.s linguist-detectable=true
+*.s linguist-documentation=false
