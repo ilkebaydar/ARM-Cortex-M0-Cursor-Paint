@@ -1,1 +1,2 @@
 *.s linguist-language=armasm
+*.s linguist-detectable=true
